@@ -5,7 +5,7 @@
     max-height: 100vh;
 }
 .left-section{
-    background: #1f2839;
+    background: #8dade5;
     max-height: 100vh;
     padding: 20px;
     display: flex;
@@ -16,7 +16,7 @@
 .right-section{
     max-height: 100vh;
     overflow-y: scroll;
-    background-color:#B1A296 ;
+    background-color:#fdfbf8 ;
 }
 
 .row{
@@ -27,7 +27,7 @@
 .profile-img{
     height: 182px;
     width: 180px;
-    border: 3px solid #e9dfa4b0;
+    border: 3px solid #080807b0;
     border-radius: 50%;
     position: relative;
 }
